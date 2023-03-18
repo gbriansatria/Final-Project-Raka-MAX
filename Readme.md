@@ -16,5 +16,9 @@ Dataset Travel Insurance [Here](https://www.kaggle.com/datasets/tejashvi14/trave
 
 
 ## Summary Insight
-Dalam pengerjaan EDA dataset ini kami menemukan beberapa hal menarik berkaitan dengan target variabel kami yaitu pembelian Travel Insurance
+Dalam pengerjaan EDA dataset ini kami menemukan beberapa hal menarik berkaitan dengan target variabel kami yaitu pembelian Travel Insurance.
 
+1. Data Annual Income atau tingkat pendapatan yang dihasilkan memberikan kita informasi bahwa *Customer* yang memiliki *Annual Income* di atas 1.3M memiliki kecenderungan untuk membeli Travel Insurance.
+2. Rasio *Customer* yang pernah melakukan perjalanan keluar negeri dan membeli Travel Insurance sangatlah tinggi.
+3. Begitu juga dengan *Customer* yang biasa melakukan perjalanan menggunakan pesawat juga lebih cenderung untuk menggunakan Travel Insurance.
+4. Beberapa data seperti Chronic Diseases, Employment Type dan Graduate or not tidak memiliki korelasi dan efek yang kuat terhadap target variabel yang sudah ditentukan.
